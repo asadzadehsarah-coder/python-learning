@@ -1,0 +1,12 @@
+#calcute
+
+num1=int(input("inter your number?"))
+num2=int(input("inter your number?"))
+mul=num1*num2
+print(mul)
+sum=num1+num2
+print(sum)
+sub=max(num1,num2)-min(num1,num2)
+print(sub)
+div=max(num1,num2)/min(num1,num2)
+print(div)
