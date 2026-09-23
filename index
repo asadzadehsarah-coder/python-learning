@@ -1,0 +1,6 @@
+#index text with for 
+#even number
+text="saraasadzadeh"
+for i in range(0,len(text),2):
+    print(text[i])
+
